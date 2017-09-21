@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" id="cordova-plugin-permissionScope" version="1.0.0">
+  <name>PermissionScope</name>
+  <license>Apache 2.0</license>
+  <description>Cordova plugin to handle iOS permissions</description>
+  <keywords>cordova,phonegap,permission,permissionScope</keywords>
+
+  <platform name="ios">
+    <config-file target="config.xml" parent="/*">
+      <feature name="PermissionScope">
+        <param name="ios-package" value="PermissionScopePlugin"/>
+      </feature>
+    </config-file>
+
+    <js-module name="PermissionScope" src="permissionScope.js">
+      <clobbers target="PermissionScope"/>
+    </js-module>
+
+    <source-file src="src/ios/PermissionScopePlugin.h"/>
+    <source-file src="src/ios/PermissionScopePlugin.m"/>
+  </platform>
+
+</plugin>
