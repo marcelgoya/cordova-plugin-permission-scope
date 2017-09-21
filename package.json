@@ -1,0 +1,35 @@
+{
+  "version": "0.0.1",
+  "name": "cordova-plugin-permissionscope",
+  "cordova_name": "PermissionScope",
+  "description": "",
+  "license": "MIT",
+  "platforms": [
+    "ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "cordova": {
+    "id": "cordova-plugin-permissionscope",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcelgoya/cordova-plugin-permission-scope.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "lingusocial",
+  "bugs": {
+    "url": "https://github.com/marcelgoya/cordova-plugin-permission-scope/issues"
+  },
+  "homepage": "https://github.com/marcelgoya/cordova-plugin-permission-scope/#readme"
+}
