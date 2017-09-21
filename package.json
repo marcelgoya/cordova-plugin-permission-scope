@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "name": "cordova-plugin-permissionscope",
+  "name": "cordova-plugin-permission-scope",
   "cordova_name": "PermissionScope",
   "description": "",
   "license": "MIT",
@@ -14,7 +14,7 @@
     }
   ],
   "cordova": {
-    "id": "cordova-plugin-permissionscope",
+    "id": "cordova-plugin-permission-scope",
     "platforms": [
       "ios"
     ]
