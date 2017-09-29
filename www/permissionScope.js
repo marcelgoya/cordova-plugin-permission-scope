@@ -1,4 +1,4 @@
-import exec from 'cordova/exec';
+var exec = require('cordova/exec');
 
 exports.init = (config, success, error) => {
   exec(success, error, 'PermissionScope',  'initialize', [ config ]);
