@@ -1,0 +1,11 @@
+framework module PermissionScope {
+  umbrella header "PermissionScope.h"
+
+  export *
+  module * { export * }
+}
+
+module PermissionScope.Swift {
+    header "PermissionScope-Swift.h"
+    requires objc
+}
