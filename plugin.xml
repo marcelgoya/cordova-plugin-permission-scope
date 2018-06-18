@@ -18,6 +18,8 @@
 
     <source-file src="src/ios/PermissionScopePlugin.h"/>
     <source-file src="src/ios/PermissionScopePlugin.m"/>
+
+    <framework src="PermissionScope.framework" custom="true" />
   </platform>
 
 </plugin>
