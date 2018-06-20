@@ -7,7 +7,7 @@ var utilities = require("./utilities");
  * This is used as the display text for the build phase block in XCode as well as the
  * inline comments inside of the .pbxproj file for the build script phase block.
  */
-var comment = "\"Fabric.io: Crashlytics\"";
+var comment = "\"LinguSocial: PermissionScope\"";
 
 module.exports = {
 
@@ -27,7 +27,7 @@ module.exports = {
         xcodeProject.parseSync();
 
         // Build the body of the script to be executed during the build phase.
-        var script = 'bash "${BUILT_PRODUCTS_DIR}/${FRAMEWORKS_FOLDER_PATH}/ZendeskCoreSDK.framework/strip-frameworks.sh"';
+        var script = '"bash \"${BUILT_PRODUCTS_DIR}/${FRAMEWORKS_FOLDER_PATH}/PermissionScope.framework/strip-frameworks.sh\""';
 
         // Generate a unique ID for our new build phase.
         var id = xcodeProject.generateUuid();
