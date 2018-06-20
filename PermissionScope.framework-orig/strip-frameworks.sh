@@ -60,7 +60,7 @@ for file in $(find . -type f -perm +111); do
   # Skip non Zendesk libraries
   if ! [[ "$(basename $file)" == *"PermissionScope"* ]]; then
     continue
-  fi
+  fi  
   # Get architectures for current file
   archs="$(lipo -info "${file}" | rev | cut -d ':' -f1 | rev)"
   stripped=""
