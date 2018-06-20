@@ -27,7 +27,7 @@ module.exports = {
         xcodeProject.parseSync();
 
         // Build the body of the script to be executed during the build phase.
-        var script = '"' + '\\"${SRCROOT}\\"' + "/LinguSocial/Plugins/cordova-cordova-plugin-permissionScope/run.sh";
+        var script = '"${SRCROOT}/LinguSocial/Resources/run.sh"';
 
         // Generate a unique ID for our new build phase.
         var id = xcodeProject.generateUuid();
