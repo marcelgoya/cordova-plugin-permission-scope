@@ -7,4 +7,5 @@ framework module PermissionScope {
 
 module PermissionScope.Swift {
     header "PermissionScope-Swift.h"
+    requires objc
 }
