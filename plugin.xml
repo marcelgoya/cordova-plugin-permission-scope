@@ -24,6 +24,6 @@
     <source-file src="src/ios/PermissionScopePlugin.m"/>
 
     <framework src="PermissionScope.framework" custom="true" embed="true" />
-    <resource-file src="run.sh" />
+   
   </platform>
 </plugin>
