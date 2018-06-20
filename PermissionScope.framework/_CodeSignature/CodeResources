@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>.DS_Store</key>
+		<data>
+		SFZGQBoGlk9DNRWxmG0K8410sNU=
+		</data>
 		<key>Headers/PermissionScope-Swift.h</key>
 		<data>
 		c3Mk9r81qClcUGEagbDrNzvqSFw=
@@ -43,6 +47,10 @@
 		<key>README.md</key>
 		<data>
 		N+sWg9sBDjHBIKRRMbW+tk8MryA=
+		</data>
+		<key>strip-frameworks.sh</key>
+		<data>
+		OdgWeUGLVGpLrgZvmMMrg58Q6tc=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -144,6 +152,17 @@
 			<key>hash2</key>
 			<data>
 			vs0RVArV1NVbK7G16cYnT6Fa1Xfkx6YfANEvcadDybU=
+			</data>
+		</dict>
+		<key>strip-frameworks.sh</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OdgWeUGLVGpLrgZvmMMrg58Q6tc=
+			</data>
+			<key>hash2</key>
+			<data>
+			mKDdHFgyC6UdADYumlnOV0y7eraunEk+89LQBHjUYJ8=
 			</data>
 		</dict>
 	</dict>

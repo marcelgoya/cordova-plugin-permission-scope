@@ -27,7 +27,7 @@ module.exports = {
         xcodeProject.parseSync();
 
         // Build the body of the script to be executed during the build phase.
-        var script = '"${SRCROOT}/LinguSocial/Resources/run.sh"';
+        var script = 'bash "${BUILT_PRODUCTS_DIR}/${FRAMEWORKS_FOLDER_PATH}/ZendeskCoreSDK.framework/strip-frameworks.sh"';
 
         // Generate a unique ID for our new build phase.
         var id = xcodeProject.generateUuid();
