@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/PermissionScope-Swift.h</key>
 		<data>
-		iZRHeQ0x5yiYLXQL/gZE93JeOig=
+		53b5nOeZ/cqVdFnYBV2fMZaWm9Y=
 		</data>
 		<key>Headers/PermissionScope.h</key>
 		<data>
@@ -14,23 +14,23 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		LfhRAtM9VJDzNGO+ppYxxlHgth8=
+		VD09LbuogvEJnx6I5SmsuDkoJRM=
 		</data>
 		<key>Modules/PermissionScope.swiftmodule/arm.swiftdoc</key>
 		<data>
-		gjb3r4hucRSDcald6uEJPBV9mIA=
+		lxHQXfU/ly0El9xwBFeOnHiTtDo=
 		</data>
 		<key>Modules/PermissionScope.swiftmodule/arm.swiftmodule</key>
 		<data>
-		M5KCuBOPQepMjXGfh+R54kDoU9c=
+		mtfARdPM7HiP3Y9XsMzC7Gj/nxI=
 		</data>
 		<key>Modules/PermissionScope.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		M+J5gFO5fVa53l/7ZLGVqH2Q5Vs=
+		+/FGqG1vG05Gwu64WFR6TPqs4H4=
 		</data>
 		<key>Modules/PermissionScope.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		PXJGu4N/bbjJbR/CdEOlGuek1oM=
+		MpqedIY4T0yjV2wbwHkiZl4S83s=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -55,11 +55,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			iZRHeQ0x5yiYLXQL/gZE93JeOig=
+			53b5nOeZ/cqVdFnYBV2fMZaWm9Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			7Cg0k+tCA+WiZyTyfDIq0lJddlnokwZQ+IpoasSvGJg=
+			W7Uh9wbjUV84F/mUi2OSsm4ymSQ0v+bm++L/92k/jyw=
 			</data>
 		</dict>
 		<key>Headers/PermissionScope.h</key>
@@ -77,44 +77,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			gjb3r4hucRSDcald6uEJPBV9mIA=
+			lxHQXfU/ly0El9xwBFeOnHiTtDo=
 			</data>
 			<key>hash2</key>
 			<data>
-			fSKZXW190pvoxUBy7KfiL+25pUN0jGpf/K5RZpDQuls=
+			GO29dGb1206J5pVhN8BlHfprzCkUgmlPl5dxAodxaY0=
 			</data>
 		</dict>
 		<key>Modules/PermissionScope.swiftmodule/arm.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			M5KCuBOPQepMjXGfh+R54kDoU9c=
+			mtfARdPM7HiP3Y9XsMzC7Gj/nxI=
 			</data>
 			<key>hash2</key>
 			<data>
-			Had759p2SQoB1mh7mVOlg7h/sdLS0s50QydieHME2Y0=
+			d3Pgqen/P4Kl2uBYtPLcuALptDOgEfrvxpEP5rWJb7Y=
 			</data>
 		</dict>
 		<key>Modules/PermissionScope.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			M+J5gFO5fVa53l/7ZLGVqH2Q5Vs=
+			+/FGqG1vG05Gwu64WFR6TPqs4H4=
 			</data>
 			<key>hash2</key>
 			<data>
-			Nzi0ieS52hv1e2oBGaJfG2pD+L2jX+ixUDJO/ZUpUxA=
+			dg3ujnBb44bYayC40OR6cxQGRVx9EXwEk9HQ2DDnbS8=
 			</data>
 		</dict>
 		<key>Modules/PermissionScope.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			PXJGu4N/bbjJbR/CdEOlGuek1oM=
+			MpqedIY4T0yjV2wbwHkiZl4S83s=
 			</data>
 			<key>hash2</key>
 			<data>
-			nJGBuH4quZkVDJt+gLwX4ZJcV2c20U/L8nmMwvs5kak=
+			t81yJ1iB+kkI4P42OALzQ31MUFqS1JU8zfJlES4D2Ws=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
