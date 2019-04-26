@@ -6,7 +6,6 @@
 //
 
 #import <Cordova/CDV.h>
-#import <PermissionScope/PermissionScope-Swift.h>
 
 @interface PermissionScopePlugin : CDVPlugin {
     
